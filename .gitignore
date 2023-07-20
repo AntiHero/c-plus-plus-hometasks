@@ -1,0 +1,19 @@
+# IDE 
+
+.vscode
+
+# artefacts
+build/
+CMakeFiles/
+*.vcxproj
+*.cmake
+*.sln
+*.filters
+x64
+*.dir
+Debug
+.vs
+*.user
+
+# cache
+CmakeCache.txt
